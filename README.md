@@ -1,0 +1,2 @@
+# Shriya-GPT
+Personal portfolio
