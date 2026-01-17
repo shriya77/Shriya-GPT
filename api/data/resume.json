@@ -1,0 +1,34 @@
+{
+  "education": {
+    "school": "The University of Texas at Dallas",
+    "degree": "B.S. Computer Science",
+    "years": "2024–2028",
+    "gpa": "3.98",
+    "honors": ["Dean’s List", "Academic Excellence Scholarship"]
+  },
+  "experience": [
+    {
+      "company": "Tech Me Kid",
+      "role": "Software Engineering Intern",
+      "focus": "Backend services, scheduling systems",
+      "highlights": [
+        "Built production backend services used by 15,000+ users",
+        "Owned matching logic, APIs, and data flow"
+      ]
+    },
+    {
+      "company": "Outamation",
+      "role": "AI & Workflow Automation Extern",
+      "focus": "OCR and RAG pipelines",
+      "highlights": [
+        "Processed 200+ page mortgage documents",
+        "Reduced manual review time by ~70%"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "Java", "JavaScript", "C++", "SQL"],
+    "frameworks": ["React", "React Native", "Django", "Flask"],
+    "systems": ["AWS", "PostgreSQL", "Linux", "REST APIs"]
+  }
+}

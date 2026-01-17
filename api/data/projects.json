@@ -1,0 +1,178 @@
+[
+  {
+    "id": "tech-me-kid-booking",
+    "title": "Tech Me Kid Booking Platform",
+    "type": "Production system",
+    "oneLiner": "Full-stack booking platform serving 15,000+ users with automated matching and scheduling.",
+    "stack": ["React", "Python", "REST APIs", "PostgreSQL"],
+    "whatIBuilt": [
+      "Designed and implemented backend services and APIs for booking and scheduling",
+      "Built preference-based matching logic across time zones and availability",
+      "Integrated third-party services for calendar and session automation"
+    ],
+    "constraints": [
+      "Real users with inconsistent availability",
+      "Time zone edge cases",
+      "External API reliability"
+    ],
+    "impact": [
+      "Used by 15,000+ seniors in production",
+      "Reduced manual scheduling overhead for operations teams"
+    ],
+    "whyItMatters": "This project proves I can ship and maintain systems with real users, real data, and real failure modes."
+  },
+  {
+    "id": "outamation-ocr-rag",
+    "title": "OCR + RAG Document Pipelines",
+    "type": "AI production workflow",
+    "oneLiner": "OCR and retrieval pipelines for large mortgage document sets, reducing manual review time by ~70%.",
+    "stack": ["Python", "Tesseract", "PaddleOCR", "PyMuPDF", "LlamaIndex", "RAG"],
+    "whatIBuilt": [
+      "OCR pipelines for 200+ page mortgage documents",
+      "Document parsing and normalization workflows",
+      "Semantic retrieval using RAG with tuned chunking strategies"
+    ],
+    "constraints": [
+      "Messy, inconsistent document formats",
+      "Accuracy mattered more than speed",
+      "Large document sizes"
+    ],
+    "impact": [
+      "Reduced manual document review time by ~70%",
+      "Improved retrieval precision across heterogeneous files"
+    ],
+    "whyItMatters": "Small implementation details directly affected correctness, making this a strong example of my attention to detail in AI systems."
+  },
+  {
+    "id": "materna",
+    "title": "Materna",
+    "type": "Founder-led product",
+    "oneLiner": "Hackathon-winning maternal health app built from idea to MVP with real traction.",
+    "stack": ["Django", "React", "PostgreSQL", "Firebase"],
+    "whatIBuilt": [
+      "Led backend and product development",
+      "Translated user research into technical requirements",
+      "Coordinated engineering, research, and marketing teams"
+    ],
+    "constraints": [
+      "Ambiguous problem space",
+      "Cross-functional coordination",
+      "Tight hackathon timelines"
+    ],
+    "impact": [
+      "Won Axxess Hackathon (350+ participants)",
+      "Built 104-user waitlist pre-launch"
+    ],
+    "whyItMatters": "Shows end-to-end execution: problem selection, system design, leadership, and shipping."
+  },
+  {
+    "id": "lumina-astronomy-app",
+    "title": "Lumina",
+    "type": "Award-winning mobile app",
+    "oneLiner": "Astronomy + stargazing app that won Best UI/UX, with a polished interface and real-world usability focus.",
+    "stack": ["React Native", "JavaScript", "APIs"],
+    "whatIBuilt": [
+      "Designed the UI system and core user flows for discovery and viewing",
+      "Implemented the front-end experience with reusable components",
+      "Integrated external data/APIs to power the app experience"
+    ],
+    "constraints": [
+      "High bar for UI polish",
+      "Mobile performance and responsiveness",
+      "Data quality and API edge cases"
+    ],
+    "impact": [
+      "Won Best UI/UX at a design competition",
+      "Demonstrated strong product design + engineering execution"
+    ],
+    "whyItMatters": "Shows I can build product-ready interfaces and ship experiences people actually want to use."
+  },
+  {
+    "id": "stylesync-virtual-wardrobe",
+    "title": "StyleSync",
+    "type": "Full-stack ML product",
+    "oneLiner": "AI-powered virtual wardrobe that suggests outfits using a full-stack web app and lightweight ML logic.",
+    "stack": ["React", "Flask", "Python", "JavaScript", "TensorFlow.js"],
+    "whatIBuilt": [
+      "Built the end-to-end web app with a clean UI for wardrobe management",
+      "Implemented outfit suggestion logic and integrated it into the product flow",
+      "Designed APIs and data flow between the front end and model logic"
+    ],
+    "constraints": [
+      "Balancing accuracy with speed for interactive UX",
+      "Messy, user-provided images and inputs",
+      "Keeping the system maintainable while iterating quickly"
+    ],
+    "impact": [
+      "Demonstrated applied ML in a user-facing product",
+      "Built a scalable foundation for recommendations + personalization"
+    ],
+    "whyItMatters": "Proves I can integrate ML into a real product surface area without sacrificing UX."
+  },
+  {
+    "id": "realitycheck-real-estate-risk",
+    "title": "RealityCheck",
+    "type": "Data + API integration tool",
+    "oneLiner": "Real-estate risk analysis tool that aggregates public data sources to flag location-specific risks.",
+    "stack": ["React", "Python", "REST APIs", "Data pipelines"],
+    "whatIBuilt": [
+      "Integrated external APIs/data sources and normalized outputs",
+      "Built a clear UI that turns raw data into actionable risk signals",
+      "Handled edge cases like missing data and inconsistent formats"
+    ],
+    "constraints": [
+      "Inconsistent third-party data",
+      "Latency and rate limits",
+      "Making complex data easy to understand"
+    ],
+    "impact": [
+      "Enabled faster due-diligence by consolidating data in one view",
+      "Strong example of API-driven product engineering"
+    ],
+    "whyItMatters": "Highlights practical engineering: integration, data normalization, and shipping a useful UI."
+  },
+  {
+    "id": "tamil-learning-site",
+    "title": "So You Can Talk To My Mom",
+    "type": "Personal product + UX build",
+    "oneLiner": "Tamil language learning site with interactive UI for phrases and practice, built for real users.",
+    "stack": ["React", "TypeScript", "HTML/CSS"],
+    "whatIBuilt": [
+      "Designed and built an interactive phrasebook-style UI",
+      "Implemented navigation and reusable components for lessons",
+      "Wrote clear microcopy and UX flows to keep learning lightweight"
+    ],
+    "constraints": [
+      "Keeping the UX simple and fast",
+      "Making content easy to scan and practice",
+      "Mobile-friendly layout"
+    ],
+    "impact": [
+      "Shipped as a real, shareable site with a clear audience",
+      "Demonstrates design-forward front-end execution"
+    ],
+    "whyItMatters": "Shows I can build polished, human-centered interfaces with strong attention to detail."
+  },
+  {
+    "id": "tedxutd-website",
+    "title": "TEDxUTD Website",
+    "type": "Production web build",
+    "oneLiner": "Rebuilt and maintained TEDxUTD’s website to support event promotion and execution.",
+    "stack": ["React", "TypeScript", "Web APIs"],
+    "whatIBuilt": [
+      "Led the website rebuild from scratch and owned the technical implementation",
+      "Built responsive pages for speakers, schedule, and event information",
+      "Worked with stakeholders to iterate quickly and ship updates on deadlines"
+    ],
+    "constraints": [
+      "Hard deadlines tied to event dates",
+      "Non-technical stakeholder feedback",
+      "Reliability during high-traffic periods"
+    ],
+    "impact": [
+      "Improved the organization’s digital presence and event readiness",
+      "Strong example of shipping under real timelines"
+    ],
+    "whyItMatters": "Proves I can own a real web surface end-to-end and deliver under deadline pressure."
+  }
+]
